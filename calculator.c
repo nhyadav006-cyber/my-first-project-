@@ -7,7 +7,7 @@ int main(){
 	printf("1. Addition\n");
 	printf("2. Multiplication\n");
 		printf("3. Subtraction\n");
-			printf("4.Division\n");
+			printf("4. Division\n");
 			printf("5. percentage\n");
 			
 			printf("Enter your choice ");
